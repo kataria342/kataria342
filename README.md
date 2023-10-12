@@ -1,4 +1,10 @@
 ### Hi there 👋
+💬 About me: I am an AI and ML student with solid roots in Python and Statistics. I love to play with data and use data to build neural networks to solve any problems. In future, I would like to work on vision problems that can help advance AI technologies in our daily lives e.g. self-driving cars, UAVs, healthcare robots, etc.
+🔭 I’m currently working on NLP and openCV projects
+🌱 I’m currently learning computer visions
+📫 Connect with me on LinkedIn, search for **prabhjeetsingh95**
+
+
 
 <!--
 **kataria342/kataria342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
